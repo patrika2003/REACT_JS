@@ -1,0 +1,17 @@
+
+input{
+  width: 100%;
+}
+
+.kg-row{
+  margin:10px 5px;
+}
+.kg-button{
+  min-width: 70px;
+}
+.col-2{
+  flex: 0 0 auto;
+    width: 7.666667%;
+    
+    
+}
